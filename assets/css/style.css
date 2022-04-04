@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Playfair+Display:ital@1&display=swap');
 
 * {
-  margin: 0;
-  padding: 0;
-  border: none;
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
 body {
@@ -67,10 +67,6 @@ h2 {
     color: #dbd5c9;
 }
 
-.active {
-    text-decoration: underline;
-}
-
 /* Hero image */
 
 #hero-image {
@@ -83,10 +79,9 @@ h2 {
 
 /* Hero subtitle text */
 
-#subtitle-left, 
+#subtitle-left,
 #subtitle-left h2,
-#subtitle-right
-#subtitle-right h2 {
+#subtitle-right #subtitle-right h2 {
     color: black;
 }
 
@@ -105,7 +100,7 @@ h2 {
     background-color: #dbd5c9;
     opacity: 0.7;
 
-    top: 25%;
+    top: 15%;
     left: 10%;
 
     position: absolute;
@@ -126,8 +121,18 @@ h2 {
     background-color: #dbd5c9;
     opacity: 0.7;
 
-    bottom: 25%;
+    top: 30%;
     right: 10%;
 
     position: absolute;
+}
+
+/* Gallery section */
+
+#gallery {
+    background: url(../images/wedding-ceremony.jpg) no-repeat center center;
+    height: 900px;
+    width: 100%;
+    opacity: .65;
+    position: relative;
 }
