@@ -12,16 +12,50 @@ body {
     font-family: 'Playfair Display', sans-serif;
 }
 
+/* Header and subtitles */
+
 h1,
 h2 {
-    font-family: 'Amatic SC', cursive;
     font-size: 280%;
     color: black;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
 
+/* Navbar & logo */
+
+#navbar {
+    position: fixed;
+    background-color: #393638;
+    top: 0;
+    width: 100%;
+}
+
 #logo {
+    font-family: 'Amatic SC', cursive;
+    color: white;
     float: left;
     margin: .25em .5em;
+}
+
+/* menu buttons */
+
+#menu-buttons {
+    float: right;
+    display: flex;
+    list-style-type: none;
+    margin: .25em .5em;
+}
+
+#menu-buttons a {
+    text-align: center;
+    line-height: 75px;
+    font-size: 180%;
+    text-decoration: none;
+    padding: 10px 10px;
+    color: white;
+}
+
+#menu-buttons a:hover {
+    color: #dbd5c9;
 }
