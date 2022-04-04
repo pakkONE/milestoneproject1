@@ -10,6 +10,7 @@ body {
     background-color: #dbd5c9;
     color: black;
     font-family: 'Playfair Display', sans-serif;
+    position: relative;
 }
 
 /* Header and subtitles */
@@ -29,6 +30,7 @@ h2 {
     background-color: #393638;
     top: 0;
     width: 100%;
+    z-index: 3;
 }
 
 #logo {
@@ -49,13 +51,32 @@ h2 {
 
 #menu-buttons a {
     text-align: center;
-    line-height: 75px;
-    font-size: 180%;
+    font-size: 150%;
+    text-transform: uppercase;
     text-decoration: none;
     padding: 10px 10px;
     color: white;
 }
 
+#menu-buttons,
+#logo {
+    line-height: 75px;
+}
+
 #menu-buttons a:hover {
     color: #dbd5c9;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+/* Hero image */
+
+#hero-image {
+    background: url(../images/dinner-table.jpg) no-repeat center center;
+    opacity: .75;
+    width: 100%;
+    height: 900px;
+    position: relative;
 }
