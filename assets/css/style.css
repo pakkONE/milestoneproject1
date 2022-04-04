@@ -100,7 +100,7 @@ h2 {
     background-color: #dbd5c9;
     opacity: 0.7;
 
-    top: 15%;
+    top: 5%;
     left: 10%;
 
     position: absolute;
@@ -121,7 +121,7 @@ h2 {
     background-color: #dbd5c9;
     opacity: 0.7;
 
-    top: 30%;
+    top: 12.5%;
     right: 10%;
 
     position: absolute;
@@ -129,10 +129,13 @@ h2 {
 
 /* Gallery section */
 
-#gallery {
-    background: url(../images/wedding-ceremony.jpg) no-repeat center center;
-    height: 900px;
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
     width: 100%;
-    opacity: .65;
-    position: relative;
 }
