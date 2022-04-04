@@ -80,3 +80,54 @@ h2 {
     height: 900px;
     position: relative;
 }
+
+/* Hero subtitle text */
+
+#subtitle-left, 
+#subtitle-left h2,
+#subtitle-right
+#subtitle-right h2 {
+    color: black;
+}
+
+#subtitle-left {
+    font-size: 130%;
+    font-family: 'Amatic SC', cursive;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 400px;
+    height: 200px;
+
+    padding: 35px 5px 0px 5px;
+
+    background-color: #dbd5c9;
+    opacity: 0.7;
+
+    top: 25%;
+    left: 10%;
+
+    position: absolute;
+}
+
+#subtitle-right {
+    font-size: 110%;
+    font-family: 'Amatic SC', cursive;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 400px;
+    height: 200px;
+
+    padding: 5px 5px;
+
+    background-color: #dbd5c9;
+    opacity: 0.7;
+
+    bottom: 25%;
+    right: 10%;
+
+    position: absolute;
+}
