@@ -26,3 +26,16 @@ Users who visit the site will know what Fran does, see what she has done in the 
 #### _Gallery_
 - The gallery is built by using the popular masonry style. The content contains images of things that Fran has personally made, whether it is food arrangement, bridal bouquet or the images containing quotes from known people.
 User story: the user browses to the website and would like to see what Fran has done in the past to help make a decision whether the would like to work with her or not.
+
+#### _Get in touch_
+- This form is used as a call to action for the visitor and is placed right after the gallery section. By this time hope fully the user will have a hightened interest for Frans services and now we present them with an option to get in touch with her.
+- Each line of the form will be required, except the comment section. This is optional and will give the user an opportunity to let Fran know beforehand what the user is interested in as Fran will reach out to the user.
+- Once the user has filled out the form and clicks on the Submit button the user will get a confirmation on the page that the form submission was successful.
+- User story: the user has seen what Fran is capable of and are now interested in knowing how they can work together or how Fran can help make their upcoming special day/moment even more sepcial.
+
+#### _Footer_
+- The footer will contain important copyright information as well as links to social medias to stay in touch with Fran.
+- This is important as most of the new content will be posted on her Instagram.
+- User story: The user would like to stay in touch with Fran and can at the bottom of the page find links to her social medias (only Instagram for now).
+
+### __Future features__

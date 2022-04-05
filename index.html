@@ -60,7 +60,7 @@
         <img src="assets/images/brunch-arrangement.jpeg" alt="Photo of beautifully arranged brunch">
     </section>
     <section id="getintouch" class="form-section">
-        <form method="post" action="/confirmed.html" target="_top"></form>
+        <form method="post" action="https://formdump.codeinstitute.net/" target="_top"></form>
         <h2>Want to know more? Get in touch</h2>
         <label for="fname">First Name</label>
         <input type="text" id="fname" name="first_name" required>
@@ -69,7 +69,7 @@
         <label for="email">Email Address</label>
         <input type="email" id="email" name="email_address" required>
         <label for="phone">Phone Number</label>
-        <input type="tel" id="phone" name="phone_number" required>
+        <input type="tel" id="phone" name="phone_number" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required>
         <label for="text">Write a message (optional)</label>
         <input type="text" id="message" name="message" maxlength="150">
         <input type="submit" value="Submit">
