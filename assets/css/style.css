@@ -212,3 +212,21 @@ footer p {
     padding: 3%;
     color: #393638;
 }
+
+/* media queries */
+
+/* This is adjustments for screens smaller than 1200px wide */
+
+@media screen and (max-width: 1200px) {
+   .photos {
+       column-count: 3;
+   }
+}
+
+/* This is adjustments for screens smaller than 950px wide */
+
+@media screen and (max-width: 950px) {
+    .photos {
+        column-count: 2;
+    }
+ }

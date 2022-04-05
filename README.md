@@ -62,6 +62,6 @@ Here are some the future features I will implement at a later stage. This is due
 
 ### _Fonts_
 - I used Amatic SC in cursive and Playfair Display as fonts
-- Color scheme was following: beige: #DBD5C9 grey: #393638 and white and black
 
-###
+### _Color scheme_
+- Color scheme was following: beige: #DBD5C9 grey: #393638 and white and black
