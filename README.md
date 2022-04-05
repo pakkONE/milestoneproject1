@@ -51,3 +51,17 @@ Here are some the future features I will implement at a later stage. This is due
 - Add a blog section where Fran gets to share stories of how moments she made different moments special and perhaps some behind the scenes content as well.
 
 ## Wireframes
+<hr>
+
+![This is a desktop wireframe](assets/images/Milestone%20project%201.png)
+![This is a tablet wireframe](assets/images/Milestone%20project%201%20tablet.png)
+![This is a phone wireframe](assets/images/Milestone%20project%201%20phone.png)
+
+## Typography and color scheme
+<hr>
+
+### _Fonts_
+- I used Amatic SC in cursive and Playfair Display as fonts
+- Color scheme was following: beige: #DBD5C9 grey: #393638 and white and black
+
+###

@@ -159,7 +159,7 @@ h2 {
     max-width: 400px;
     max-height: 600px;
     text-transform: uppercase;
-    padding: 5%;
+    padding: 2%;
     position: absolute;
     background-color: rgba(57, 54, 56, .5);
 }
@@ -187,10 +187,12 @@ h2 {
     border-radius: 5px;
     padding: 1% 2%;
     text-align: center;
+    margin-top: 5%;
     font-size: 70%;
     background-color: #dbd5c9;
     color: black;
     display: block;
+    float: right;
 }
 
 .submit-button:hover {
@@ -201,12 +203,12 @@ h2 {
 /* footer section */
 
 footer {
-    height: 150px;
+    height: 100px;
 }
 
 footer p {
     text-align: center;
     margin: 1%;
-    padding: 5%;
+    padding: 3%;
     color: #393638;
 }
