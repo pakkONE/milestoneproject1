@@ -39,3 +39,15 @@ User story: the user browses to the website and would like to see what Fran has 
 - User story: The user would like to stay in touch with Fran and can at the bottom of the page find links to her social medias (only Instagram for now).
 
 ### __Future features__
+<hr>
+
+Here are some the future features I will implement at a later stage. This is due to not having enough information at the moment, nor the skills, or that it would be too much time consuming at this stage of the project.
+
+- Use Bootstrap for responsive navbar.
+- Change logo to an actual image, the same as Fran has as a profile photo on Instagram (https://instagram.com/momentsbyfran).
+- Remake the gallery and use and API from her Instagram so that each new post she makes gets automatically added. (I will also limit it to a maximum of 20 posts)
+- Add more links to social media as they are made available.
+- Perhaps make three, or more, separate pages as there's more content available. This is to reduce the amount of data that needs to be load each time you go to the webpage.
+- Add a blog section where Fran gets to share stories of how moments she made different moments special and perhaps some behind the scenes content as well.
+
+## Wireframes
