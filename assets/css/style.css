@@ -139,3 +139,13 @@ h2 {
 .photos > img {
     width: 100%;
 }
+
+/* Form section */
+
+.form {
+    background: url(../images/wedding-flowers.jpg) no-repeat center center;
+    width: 100%;
+    height: 900px;
+    opacity: .7;
+    position: relative;
+}
