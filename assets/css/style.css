@@ -20,7 +20,7 @@ h2 {
     font-size: 280%;
     color: black;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 5%;
 }
 
 /* Navbar & logo */
@@ -54,13 +54,13 @@ h2 {
     font-size: 150%;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 10px 10px;
-    color: white;
+    padding: 0.8em 0.8em;
+    color: #fff;
 }
 
 #menu-buttons,
 #logo {
-    line-height: 75px;
+    line-height: 50px;
 }
 
 #menu-buttons a:hover {
@@ -83,7 +83,7 @@ h2 {
 #subtitle-left,
 #subtitle-left h2,
 #subtitle-right #subtitle-right h2 {
-    color: black;
+    color: #000;
 }
 
 #subtitle-left {
@@ -92,9 +92,8 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-    width: 400px;
-    height: 200px;
-    padding: 35px;
+    width: 30%;
+    padding: 3%;
     background-color: #dbd5c9;
     opacity: 0.7;
     top: 5%;
@@ -108,13 +107,13 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-    width: 400px;
-    height: 200px;
-    padding: 35px;
+    width: 30%;
+    padding: 3%;
     background-color: #dbd5c9;
     opacity: 0.7;
     top: 10%;
-    right: 5%;
+    right: 10%;
+    margin-right: 2%;
     position: absolute;
 }
 
@@ -223,6 +222,15 @@ footer p {
     .photos {
         column-count: 3;
     }
+
+    #subtitle-left,
+    #subtitle-right {
+        font-size: 95%;
+    }
+
+    #menu-buttons a {
+        font-size: 135%;
+    }
 }
 
 /* This is adjustments for screens smaller than 950px wide */
@@ -230,5 +238,14 @@ footer p {
 @media screen and (max-width: 950px) {
     .photos {
         column-count: 2;
+    }
+
+    #subtitle-left,
+    #subtitle-right {
+        font-size: 70%;
+    }
+
+    #menu-buttons a {
+        font-size: 120%;
     }
 }
