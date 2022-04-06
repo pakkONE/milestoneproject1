@@ -70,8 +70,9 @@ h2 {
 /* Hero image */
 
 #hero-image {
-    background: url(../images/dinner-table.jpg) no-repeat center center;
+    background: url(../images/wedding-ceremony.jpg) no-repeat center center;
     opacity: .75;
+    background-size: cover;
     width: 100%;
     height: 900px;
     display: flex;

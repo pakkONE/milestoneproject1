@@ -93,7 +93,7 @@ Here are some the future features I will implement at a later stage. This is due
 <hr>
 
 ### _GitHub_
- - GitHub is where the code is stored.
+ - GitHub is where the code is stored and the site was hosted.
 
 ### _GitPod_
 - GitPod is the developer environment in the cloud.
@@ -117,42 +117,42 @@ Here are some the future features I will implement at a later stage. This is due
 
 ### Test cases
 #### _Desktop_
-- What happens when you click on Logo or Home button:
+- What happens when you click on Logo or Home button:<br>
 ![Desktop Logo/Homebutton](docs/Desktop_Logo_HomeButton.png)
 
-- What happens when you click on Gallery button:
+- What happens when you click on Gallery button:<br>
 ![Desktop Gallery button](docs/Desktop_GalleryButton.png)
 
-- What happens when you scroll through the masonry style gallery:
+- What happens when you scroll through the masonry style gallery:<br>
 ![Desktop Gallery section](docs/Desktop_GallerySection.png)
 
-- What happens when you click Form button:
+- What happens when you click Form button:<br>
 ![Desktop Form button](docs/Desktop_FormButton.png)
 
-- What happens when you Test filling out the form:
+- What happens when you Test filling out the form:<br>
 ![Desktop Form test](docs/Desktop_FormTest.png)
 
-- What happens when you submit the form:
+- What happens when you submit the form:<br>
 ![Desktop Form confirmation page](docs/Desktop_FormConfirmation.png)
 
 #### _Phone_
 
-- What happens when you click on Logo or Home button:
+- What happens when you click on Logo or Home button:<br>
 ![Desktop Logo/Homebutton](docs/Phone_Logo_HomeButton.jpg)
 
-- What happens when you click on Gallery button:
+- What happens when you click on Gallery button:<br>
 ![Desktop Gallery button](docs/Phone_GalleryButton.jpg)
 
-- What happens when you scroll through the masonry style gallery:
+- What happens when you scroll through the masonry style gallery:<br>
 ![Desktop Gallery section](docs/Phone_GallerySection.png)
 
-- What happens when you click Form button:
+- What happens when you click Form button:<br>
 ![Desktop Form button](docs/Phone_FormButton.jpg)
 
-- What happens when you Test filling out the form:
+- What happens when you Test filling out the form:<br>
 ![Desktop Form test](docs/Phone_FormTest.png)
 
-- What happens when you submit the form:
+- What happens when you submit the form:<br>
 ![Desktop Form confirmation page](docs/Phone_FormConfirmation.jpg)
 
 ### _fixed bugs_
@@ -167,9 +167,20 @@ Here are some the future features I will implement at a later stage. This is due
 ## Deployment
 <hr>
 
-### _via GitHub pages_
-
 ### _via GitPod_
+- GitPod was used as the environment for development. These are the steps to set it up.
+  - I used Code Institute GitPod template (https://github.com/Code-Institute-Org/gitpod-full-template)
+  - Click Use this template.
+  - GitPod will now set up the environment for you with all addons/shortcuts needed.
+
+### _via GitHub pages_
+- The site was deployed to GitHub Pages. These are the steps to make it happen:
+  - Go to the relevant repository, then click Settings.
+  - Click on Pages on the left column.
+  - Under source, pick main and also make sure that /root is selected. Click Save.
+  - The site will then be deployed within 10-15 minutes and the link should be shown above the Source section.
+
+Find my site here: https://pakkone.github.io/milestoneproject1/
 
 ## Credits
 <hr>
