@@ -234,6 +234,11 @@ footer p {
         font-size: 135%;
     }
 
+    #confirmed {
+        margin-top: 30%;
+        font-size: 50%;
+    }
+
     .git-form {
         max-width: 60%;
     }
@@ -267,7 +272,12 @@ footer p {
     .git-form {
         max-width: 70%;
     }
-    
+
+    #confirmed {
+        margin-top: 30%;
+        font-size: 35%;
+    }
+
     .form-section {
         font-size: 135%;
     }

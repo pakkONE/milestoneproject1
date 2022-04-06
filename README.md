@@ -126,3 +126,14 @@ Here are some the future features I will implement at a later stage. This is due
 ### _Supported screens and browsers_
 - I used Chrome Developer Tool to test the website on all kinds of screen sizes as well in landscape mode.
 - The website seem to work well on all screen sizes.
+
+## Deployment
+<hr>
+
+### _via GitHub pages_
+
+### _via GitPod_
+
+## Credits
+<hr>
+
