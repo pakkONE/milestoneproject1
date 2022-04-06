@@ -8,10 +8,10 @@ Users who visit the site will know what Fran does, see what she has done in the 
 ## User stories
 <hr>
 
-### Logo
+### _Logo_
 - As a visiting user, I want to go to top of the page and therefore click on the logo that leads me there.
 
-### Navbar
+### _Navbar_
 - Home
   - As a visiting user I want to go to top of the page and therefore click on the Home button.
 - Gallery
@@ -19,19 +19,19 @@ Users who visit the site will know what Fran does, see what she has done in the 
 - Get in touch
   - As a visiting user I want to get in touch with Fran so I click on the Get in touch button that leads me to the form.
 
-### Hero Image
+### _Hero Image_
 - As a visiting user I want to know what this website is about so I expect the hero image and its subtitle text to provide me with the answer.
 
-### Gallery
+### _Gallery_
 - As a visiting user I want to see the past work that Fran has done to help me decide if I want to work with her and therefore scroll through the gallery.
 
-### Get in touch form
+### _Get in touch form_
 - As a visiting user I want to get in touch with Fran to get a quote for her work so I submit a form.
 
-### /confirmed.html
+### _/confirmed.html_
 - As a visiting user I want to know that my form submission was successfully submitted and therefore expect a confirmation message.
 
-### Footer
+### _Footer_
 - As a visiting user I want to keep in touch with Fran and follow her on social media platform and therefore expect to find links in the footer of the website that opens them in a new tab.
 
 ## Features
@@ -76,9 +76,9 @@ Here are some the future features I will implement at a later stage. This is due
 ## Wireframes
 <hr>
 
-![This is a desktop wireframe](docs/Milestone project 1.png)
-![This is a tablet wireframe](docs/Milestone project 1 tablet.png)
-![This is a phone wireframe](docs/Milestone project 1 phone.png)
+![This is a desktop wireframe](docs/Milestone%20project%201.png)
+![This is a tablet wireframe](docs/Milestone%20project%201%20tablet.png)
+![This is a phone wireframe](docs/Milestone%20project%201%20phone.png)
 
 ## Typography and color scheme
 <hr>
@@ -88,3 +88,37 @@ Here are some the future features I will implement at a later stage. This is due
 
 ### _Color scheme_
 - Color scheme was following: beige: #dbd5c9 grey: #393638 white: #fff black: #000
+
+## Technology
+<hr>
+
+### _GitHub_
+ - GitHub is where the code is stored.
+
+### _GitPod_
+- GitPod is the developer environment in the cloud.
+
+### _HTML_
+- The content of the website is written in HTML5.
+
+### _CSS_
+- The website is and its content is designed with CSS3.
+
+## Testing
+<hr>
+
+### _Code validation_
+- HTML
+  - Got no significant errors in [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-pakkone-milestoneprojec-e6o30ic3ynb.ws-eu38.gitpod.io%2F)
+  - I used `"section id=gallery"` on line 45 so that the link button Gallery in the navbar would work.
+  - The error on line 85 did not cause any issues on the live website.
+- CSS
+  - No errors in [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-pakkone-milestoneprojec-e6o30ic3ynb.ws-eu38.gitpod.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+### _Test cases_
+- 
+
+ 8.1 code validation
+   8.2 test cases (user story based with screenshots)
+   8.3 fixed bugs
+   8.4 supported screens and browsers

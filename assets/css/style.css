@@ -92,7 +92,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-    width: 30% auto;
+    width: 30%;
     padding: 3%;
     background-color: #dbd5c9;
     opacity: 0.7;
@@ -107,7 +107,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-    width: 30% auto;
+    width: 30%;
     padding: 3%;
     background-color: #dbd5c9;
     opacity: 0.7;
@@ -227,10 +227,15 @@ footer p {
     #subtitle-left,
     #subtitle-right {
         font-size: 95%;
+        width: 50%;
     }
 
     #menu-buttons a {
         font-size: 135%;
+    }
+
+    .git-form {
+        max-width: 60%;
     }
 
     .form-section {
@@ -252,12 +257,17 @@ footer p {
     #subtitle-left,
     #subtitle-right {
         font-size: 70%;
+        width: 50%;
     }
 
     #menu-buttons a {
         font-size: 120%;
     }
 
+    .git-form {
+        max-width: 70%;
+    }
+    
     .form-section {
         font-size: 135%;
     }
