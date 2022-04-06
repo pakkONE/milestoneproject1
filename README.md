@@ -118,7 +118,11 @@ Here are some the future features I will implement at a later stage. This is due
 ### _Test cases_
 - 
 
- 8.1 code validation
-   8.2 test cases (user story based with screenshots)
-   8.3 fixed bugs
-   8.4 supported screens and browsers
+### _fixed bugs_
+- Fixed a bug that made the form to become too narrow on smaller screens
+- Fixed bug that made an empty margin of circa 20% width to appear on the right of the hero image on smaller screens
+- Fixed bug that caused the submit button to appear too big on smaller screens
+
+### _Supported screens and browsers_
+- I used Chrome Developer Tool to test the website on all kinds of screen sizes as well in landscape mode.
+- The website seem to work well on all screen sizes.
