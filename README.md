@@ -115,8 +115,45 @@ Here are some the future features I will implement at a later stage. This is due
 - CSS
   - No errors in [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-pakkone-milestoneprojec-e6o30ic3ynb.ws-eu38.gitpod.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-### _Test cases_
-- 
+### Test cases
+#### _Desktop_
+- What happens when you click on Logo or Home button:
+![Desktop Logo/Homebutton](docs/Desktop_Logo_HomeButton.png)
+
+- What happens when you click on Gallery button:
+![Desktop Gallery button](docs/Desktop_GalleryButton.png)
+
+- What happens when you scroll through the masonry style gallery:
+![Desktop Gallery section](docs/Desktop_GallerySection.png)
+
+- What happens when you click Form button:
+![Desktop Form button](docs/Desktop_FormButton.png)
+
+- What happens when you Test filling out the form:
+![Desktop Form test](docs/Desktop_FormTest.png)
+
+- What happens when you submit the form:
+![Desktop Form confirmation page](docs/Desktop_FormConfirmation.png)
+
+#### _Phone_
+
+- What happens when you click on Logo or Home button:
+![Desktop Logo/Homebutton](docs/Phone_Logo_HomeButton.jpg)
+
+- What happens when you click on Gallery button:
+![Desktop Gallery button](docs/Phone_GalleryButton.jpg)
+
+- What happens when you scroll through the masonry style gallery:
+![Desktop Gallery section](docs/Phone_GallerySection.png)
+
+- What happens when you click Form button:
+![Desktop Form button](docs/Phone_FormButton.jpg)
+
+- What happens when you Test filling out the form:
+![Desktop Form test](docs/Phone_FormTest.png)
+
+- What happens when you submit the form:
+![Desktop Form confirmation page](docs/Phone_FormConfirmation.jpg)
 
 ### _fixed bugs_
 - Fixed a bug that made the form to become too narrow on smaller screens
