@@ -139,7 +139,7 @@ h2 {
     font-size: 180%;
     background-position: center;
     font-family: 'Amatic SC', cursive;
-    color: white;
+    color: #fff;
     height: 900px;
     padding: 3%;
     opacity: .7;
@@ -152,8 +152,7 @@ h2 {
     text-transform: uppercase;
     padding: 3% 5%;
     position: absolute;
-    background-color: #393638;
-    opacity: 50%;
+    background-color: rgba(57,54,56,0.5)
 }
 
 .git-form>h2 {
@@ -184,11 +183,12 @@ input::placeholder {
     padding: 1% 2%;
     text-align: center;
     margin-top: 5%;
-    font-size: 70%;
+    font-size: 60%;
     background-color: #dbd5c9;
     color: black;
     display: block;
     float: right;
+    opacity: 1;
 }
 
 .submit-button:hover {
@@ -233,8 +233,12 @@ footer p {
         font-size: 135%;
     }
 
+    .form-section {
+        font-size: 150%;
+    }
+
     .submit-button {
-        font-size: 60%;
+        font-size: 70%;
     }
 }
 
@@ -254,7 +258,11 @@ footer p {
         font-size: 120%;
     }
 
+    .form-section {
+        font-size: 135%;
+    }
+
     .submit-button {
-        font-size: 50%;
+        font-size: 70%;
     }
 }
