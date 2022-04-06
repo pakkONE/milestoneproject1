@@ -137,7 +137,7 @@ h2 {
     column-gap: 0;
 }
 
-.photos > img {
+.photos>img {
     width: 100%;
 }
 
@@ -165,19 +165,24 @@ h2 {
     background-color: rgba(57, 54, 56, .5);
 }
 
-.git-form > h2 {
+.git-form>h2 {
     font-size: 120%;
     color: white;
 }
 
 .text-input {
     background-color: transparent;
-    color: white;
+    color: #fff;
     width: 100%;
     height: 25px;
     margin: 5px 10px;
     border: 1px solid #dbd5c9;
     border-radius: 5px;
+}
+
+input::placeholder {
+    opacity: 1;
+    color: #fff;
 }
 
 .text-input:hover {
@@ -219,9 +224,9 @@ footer p {
 /* This is adjustments for screens smaller than 1200px wide */
 
 @media screen and (max-width: 1200px) {
-   .photos {
-       column-count: 3;
-   }
+    .photos {
+        column-count: 3;
+    }
 }
 
 /* This is adjustments for screens smaller than 950px wide */
@@ -230,4 +235,4 @@ footer p {
     .photos {
         column-count: 2;
     }
- }
+}
