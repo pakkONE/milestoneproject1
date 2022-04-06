@@ -185,3 +185,12 @@ Find my site here: https://pakkone.github.io/milestoneproject1/
 ## Credits
 <hr>
 
+### _Images_
+- Background for form section - Edward Eyer, [Pexels account](https://www.pexels.com/sv-se/@edwardeyer)
+- Hero Image - Trung Nguyen, [Pexels account](https://www.pexels.com/sv-se/@ku3weddinghouse)
+
+### _Code_
+- Ideas for code for both HTML5 and CSS3 came from [W3School](https://www.w3schools.com/)
+
+### _Icons_
+- Instagram icon for footer came from [Font Awesome](https://fontawesome.com/)

@@ -197,10 +197,16 @@ input::placeholder {
     background-color: #393638;
 }
 
+#confirmed {
+    text-align: center;
+    padding: 20%;
+    text-transform: uppercase;
+}
+
 /* footer section */
 
 footer {
-    height: 100px;
+    height: 5%;
 }
 
 footer p {
@@ -208,12 +214,6 @@ footer p {
     margin: 1%;
     padding: 3%;
     color: #393638;
-}
-
-#confirmed {
-    text-align: center;
-    padding: 20%;
-    text-transform: uppercase;
 }
 
 /* media queries */
