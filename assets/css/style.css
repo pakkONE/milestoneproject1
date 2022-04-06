@@ -20,7 +20,7 @@ h2 {
     font-size: 280%;
     color: black;
     text-transform: uppercase;
-    letter-spacing: 5%;
+    letter-spacing: 0, 25rem;
 }
 
 /* Navbar & logo */
@@ -232,6 +232,10 @@ footer p {
     #menu-buttons a {
         font-size: 135%;
     }
+
+    .submit-button {
+        font-size: 60%;
+    }
 }
 
 /* This is adjustments for screens smaller than 950px wide */
@@ -248,5 +252,9 @@ footer p {
 
     #menu-buttons a {
         font-size: 120%;
+    }
+
+    .submit-button {
+        font-size: 50%;
     }
 }
